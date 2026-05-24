@@ -8,7 +8,7 @@ to communicate with the port. I tried to change the port, board, and the cable, 
 that, I tried rebooting my computer to see if anything would change, and a new port popped up. After trying 
 that one, the code finally uploaded to the Arduino.
 
-![Wiring the MAX30102](/images/wired-MAX30102.jpg)
+![Wiring the MAX30102](/images/wired-max30102.jpg)
 
 While looking at the code, I noticed a part of the code that was called the baud rate. In the serial monitor, 
 a bunch of gibberish was showing instead of the numbers that showed the light levels. While researching, I 
