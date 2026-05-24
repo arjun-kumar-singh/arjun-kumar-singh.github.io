@@ -2,6 +2,10 @@ I started a project a few weeks ago, to build a pulse oximeter from
 scratch using an Arduino. Today was the first time I tested it out
 and saw how the sensor works.
 
+First I tried setting up a basic red LED on a breadboard to experiment with the Arduino. It was fun to start wiring things, but I then started to wire the sensor I got for this project.
+
+![Wiring a basic LED](/images/basic-arduino-testing.jpg)
+
 The setup is just an Arduino Uno and a sensor called the MAX30102
 on a breadboard. The sensor shines a red LED and an infrared LED
 into your finger and measures how much light comes back. Apparently
